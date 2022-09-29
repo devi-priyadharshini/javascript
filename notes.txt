@@ -1,0 +1,14 @@
+Vs Code Tips: To Execute js file - Cmd: node file.js / ALT + CTRL + N
+
+JS Review:
+
+For asynchronous operations 
+
+    callback, promise and async.
+
+    When there is a sequence of asynchronous operation,
+    - using callback results -> Callback hell : callback within callbacks (complicated)
+    - using promise -> better approach than callback
+    - using async -> more convenient than promise.
+
+
