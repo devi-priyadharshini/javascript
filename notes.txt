@@ -11,4 +11,12 @@ For asynchronous operations
     - using promise -> better approach than callback
     - using async -> more convenient than promise.
 
+Promise
+
+    all - takes array of promises
+        - then.() called when all the promises are resolved without any errors.
+        - catch() executed when any one of the promises throws error.
+             Results of successful promises are not obtained?
+
+
 
